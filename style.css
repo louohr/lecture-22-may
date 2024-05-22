@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+}
+header {
+    background-color: rgb(127, 212, 78);
+    padding: 1rem;
+}
+h1 {
+    margin-block-start: 0;
+    margin-block-end: 0;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.hero-image {
+    width: 100%;
+}
+.recipe-intro, .recipe-ingredients, .recipe-instructions {
+    padding: 0 1rem;
+}
